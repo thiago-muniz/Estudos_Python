@@ -9,3 +9,4 @@ while True:
     lista.append(int(input('Digite um número: ')))
 
 print(lista)
+
