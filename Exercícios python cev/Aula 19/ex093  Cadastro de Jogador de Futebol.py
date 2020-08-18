@@ -23,7 +23,8 @@ for k, v in infojogador.items():
     print(f'O campo {k} tem o valor {v}')
 print('-=' * 30)
 print(f'O jogador {infojogador["Nome"]} jogou {len(gols)} partidas.')
+s = 0
 for pos, n in enumerate(gols):
     print(f'{f"=> Na {pos+1}ª partida , fez {n:>2} gols.":>32}')
-    n += n
-print(f'Foi um total de {n} gols.')
+    s += n
+print(f'Foi um total de {s} gols.')
