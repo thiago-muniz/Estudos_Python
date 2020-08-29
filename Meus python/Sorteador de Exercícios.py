@@ -1,7 +1,10 @@
 # Programa exercício aleatório do dia
-# Sorteio de um exercício aleatório do curso em video para praticar e refazer
+# Sorteio de um exercício aleatório do curso em video de Python para praticar e refazer
 
 from random import randint
+print('-' * 30)
+print('  Curso em Vídeo Python  ')
+print('-' * 30)
 while True:
     mundo = int(input('''De qual mundo você gostaria de realizar um exercício:
 1) Mundo 1 - Fundamentos
