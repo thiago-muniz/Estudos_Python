@@ -3,7 +3,7 @@
 
 from random import randint
 print('-' * 30)
-print('  Curso em Vídeo Python  ')
+print('    Curso em Vídeo Python    ')
 print('-' * 30)
 while True:
     mundo = int(input('''De qual mundo você gostaria de realizar um exercício:
