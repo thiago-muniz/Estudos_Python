@@ -7,7 +7,7 @@ def título():
     print('Controle de Terrenos')
     print('-' * 30)
 def area(a,b):
-    print(f'A área de um terreno {l}X{c} é de {l*c}m2')
+    print(f'A área de um terreno {a}X{b} é de {a*b}m2')
 
 título()
 l = float(input('LARGURA (M): '))
