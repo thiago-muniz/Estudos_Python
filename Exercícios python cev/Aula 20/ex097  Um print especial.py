@@ -17,5 +17,5 @@ def escreva(msg):
 
 #Programa principal
 escreva('Gustavo Guanabara')
-escreva('Cruso de Python no youtube')
+escreva('Curso de Python no youtube')
 escreva('CeV')
