@@ -1,0 +1,1 @@
+Escrevi um arquivo txt no python
