@@ -1,4 +1,5 @@
 # Estudos Python
+<img src="https://www.python.org/static/img/python-logo.png" >
 
 **Repositório com a finalidade de praticar a o uso do github durante o aprendizado de Python.**
 
